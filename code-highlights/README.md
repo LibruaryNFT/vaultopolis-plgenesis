@@ -27,9 +27,3 @@ Player/character rankings page with cross-platform aggregation:
 - Team filtering and search
 - Sortable columns with pagination
 
-### extension-tooltip.js
-Browser extension tooltip renderer using Shadow DOM for complete CSS isolation:
-- Closed Shadow DOM prevents marketplace page interference
-- HTML-escaped content for XSS prevention
-- Positioned as overlay matching card dimensions
-- Displays floor price, estimated value, supply, tier, and deal signals
